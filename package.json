@@ -1,0 +1,1 @@
+{"type":"module","scripts":{"test":"node -e \"import('./closure-answer.js').then(m=>{if(m.answer!==43)process.exit(1)})\""}}
